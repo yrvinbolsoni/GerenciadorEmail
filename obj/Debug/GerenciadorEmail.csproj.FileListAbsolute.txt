@@ -1,0 +1,11 @@
+C:\Users\yrvinb\Source\Repos\GerenciadorEmail\GerenciadorEmail\bin\Debug\GerenciadorEmail.exe.config
+C:\Users\yrvinb\Source\Repos\GerenciadorEmail\GerenciadorEmail\bin\Debug\GerenciadorEmail.exe
+C:\Users\yrvinb\Source\Repos\GerenciadorEmail\GerenciadorEmail\bin\Debug\GerenciadorEmail.pdb
+C:\Users\yrvinb\Source\Repos\GerenciadorEmail\GerenciadorEmail\obj\Debug\GerenciadorEmail.ReadEmals.resources
+C:\Users\yrvinb\Source\Repos\GerenciadorEmail\GerenciadorEmail\obj\Debug\GerenciadorEmail.csproj.GenerateResource.cache
+C:\Users\yrvinb\Source\Repos\GerenciadorEmail\GerenciadorEmail\obj\Debug\GerenciadorEmail.csproj.CoreCompileInputs.cache
+C:\Users\yrvinb\Source\Repos\GerenciadorEmail\GerenciadorEmail\obj\Debug\GerenciadorEmail.exe
+C:\Users\yrvinb\Source\Repos\GerenciadorEmail\GerenciadorEmail\obj\Debug\GerenciadorEmail.pdb
+C:\Users\yrvinb\Source\Repos\GerenciadorEmail\GerenciadorEmail\bin\Debug\OpenPop.dll
+C:\Users\yrvinb\Source\Repos\GerenciadorEmail\GerenciadorEmail\obj\Debug\GerenciadorEmail.csproj.CopyComplete
+C:\Users\yrvinb\Source\Repos\GerenciadorEmail\GerenciadorEmail\obj\Debug\GerenciadorEmail.csprojAssemblyReference.cache

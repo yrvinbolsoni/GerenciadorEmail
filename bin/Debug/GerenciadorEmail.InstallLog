@@ -1,0 +1,91 @@
+﻿Instalando o assembly 'C:\Users\yrvinb\Source\Repos\GerenciadorEmail\GerenciadorEmail\bin\Debug\GerenciadorEmail.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\yrvinb\Source\Repos\GerenciadorEmail\GerenciadorEmail\bin\Debug\GerenciadorEmail.exe
+   logfile = C:\Users\yrvinb\Source\Repos\GerenciadorEmail\GerenciadorEmail\bin\Debug\GerenciadorEmail.InstallLog
+Instalando o serviço Service1...
+Criando a origem de EventLog Service1 no log Application...
+Revertendo o assembly 'C:\Users\yrvinb\Source\Repos\GerenciadorEmail\GerenciadorEmail\bin\Debug\GerenciadorEmail.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\yrvinb\Source\Repos\GerenciadorEmail\GerenciadorEmail\bin\Debug\GerenciadorEmail.exe
+   logfile = C:\Users\yrvinb\Source\Repos\GerenciadorEmail\GerenciadorEmail\bin\Debug\GerenciadorEmail.InstallLog
+Restaurando o log de eventos para o estado anterior da origem Service1.
+Instalando o assembly 'C:\Users\yrvinb\Source\Repos\GerenciadorEmail\GerenciadorEmail\bin\Debug\GerenciadorEmail.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\yrvinb\Source\Repos\GerenciadorEmail\GerenciadorEmail\bin\Debug\GerenciadorEmail.exe
+   logfile = C:\Users\yrvinb\Source\Repos\GerenciadorEmail\GerenciadorEmail\bin\Debug\GerenciadorEmail.InstallLog
+Instalando o serviço GerenciadorEmail...
+Serviço GerenciadorEmail foi instalado com êxito.
+Criando a origem de EventLog GerenciadorEmail no log Application...
+Confirmando o assembly 'C:\Users\yrvinb\Source\Repos\GerenciadorEmail\GerenciadorEmail\bin\Debug\GerenciadorEmail.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\yrvinb\Source\Repos\GerenciadorEmail\GerenciadorEmail\bin\Debug\GerenciadorEmail.exe
+   logfile = C:\Users\yrvinb\Source\Repos\GerenciadorEmail\GerenciadorEmail\bin\Debug\GerenciadorEmail.InstallLog
+Instalando o assembly 'C:\Users\yrvinb\Source\Repos\GerenciadorEmail\GerenciadorEmail\bin\Debug\GerenciadorEmail.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\yrvinb\Source\Repos\GerenciadorEmail\GerenciadorEmail\bin\Debug\GerenciadorEmail.exe
+   logfile = C:\Users\yrvinb\Source\Repos\GerenciadorEmail\GerenciadorEmail\bin\Debug\GerenciadorEmail.InstallLog
+Instalando o serviço GerenciadorEmail...
+Criando a origem de EventLog GerenciadorEmail no log Application...
+Revertendo o assembly 'C:\Users\yrvinb\Source\Repos\GerenciadorEmail\GerenciadorEmail\bin\Debug\GerenciadorEmail.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\yrvinb\Source\Repos\GerenciadorEmail\GerenciadorEmail\bin\Debug\GerenciadorEmail.exe
+   logfile = C:\Users\yrvinb\Source\Repos\GerenciadorEmail\GerenciadorEmail\bin\Debug\GerenciadorEmail.InstallLog
+Restaurando o log de eventos para o estado anterior da origem GerenciadorEmail.
+Instalando o assembly 'C:\Users\yrvinb\Source\Repos\GerenciadorEmail\GerenciadorEmail\bin\Debug\GerenciadorEmail.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\yrvinb\Source\Repos\GerenciadorEmail\GerenciadorEmail\bin\Debug\GerenciadorEmail.exe
+   logfile = C:\Users\yrvinb\Source\Repos\GerenciadorEmail\GerenciadorEmail\bin\Debug\GerenciadorEmail.InstallLog
+Instalando o serviço GerenciadorEmail...
+Serviço GerenciadorEmail foi instalado com êxito.
+Criando a origem de EventLog GerenciadorEmail no log Application...
+Confirmando o assembly 'C:\Users\yrvinb\Source\Repos\GerenciadorEmail\GerenciadorEmail\bin\Debug\GerenciadorEmail.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\yrvinb\Source\Repos\GerenciadorEmail\GerenciadorEmail\bin\Debug\GerenciadorEmail.exe
+   logfile = C:\Users\yrvinb\Source\Repos\GerenciadorEmail\GerenciadorEmail\bin\Debug\GerenciadorEmail.InstallLog
+Instalando o assembly 'C:\Users\yrvinb\Source\Repos\GerenciadorEmail\GerenciadorEmail\bin\Debug\GerenciadorEmail.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\yrvinb\Source\Repos\GerenciadorEmail\GerenciadorEmail\bin\Debug\GerenciadorEmail.exe
+   logfile = C:\Users\yrvinb\Source\Repos\GerenciadorEmail\GerenciadorEmail\bin\Debug\GerenciadorEmail.InstallLog
+Instalando o serviço GerenciadorEmail...
+Serviço GerenciadorEmail foi instalado com êxito.
+Criando a origem de EventLog GerenciadorEmail no log Application...
+Confirmando o assembly 'C:\Users\yrvinb\Source\Repos\GerenciadorEmail\GerenciadorEmail\bin\Debug\GerenciadorEmail.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\yrvinb\Source\Repos\GerenciadorEmail\GerenciadorEmail\bin\Debug\GerenciadorEmail.exe
+   logfile = C:\Users\yrvinb\Source\Repos\GerenciadorEmail\GerenciadorEmail\bin\Debug\GerenciadorEmail.InstallLog
+Instalando o assembly 'C:\Users\yrvinb\Source\Repos\GerenciadorEmail\GerenciadorEmail\bin\Debug\GerenciadorEmail.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\yrvinb\Source\Repos\GerenciadorEmail\GerenciadorEmail\bin\Debug\GerenciadorEmail.exe
+   logfile = C:\Users\yrvinb\Source\Repos\GerenciadorEmail\GerenciadorEmail\bin\Debug\GerenciadorEmail.InstallLog
+Instalando o serviço GerenciadorEmail...
+Serviço GerenciadorEmail foi instalado com êxito.
+Criando a origem de EventLog GerenciadorEmail no log Application...
+Confirmando o assembly 'C:\Users\yrvinb\Source\Repos\GerenciadorEmail\GerenciadorEmail\bin\Debug\GerenciadorEmail.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\yrvinb\Source\Repos\GerenciadorEmail\GerenciadorEmail\bin\Debug\GerenciadorEmail.exe
+   logfile = C:\Users\yrvinb\Source\Repos\GerenciadorEmail\GerenciadorEmail\bin\Debug\GerenciadorEmail.InstallLog
+Instalando o assembly 'C:\Users\yrvinb\Source\Repos\GerenciadorEmail\GerenciadorEmail\bin\Debug\GerenciadorEmail.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\yrvinb\Source\Repos\GerenciadorEmail\GerenciadorEmail\bin\Debug\GerenciadorEmail.exe
+   logfile = C:\Users\yrvinb\Source\Repos\GerenciadorEmail\GerenciadorEmail\bin\Debug\GerenciadorEmail.InstallLog
+Instalando o serviço GerenciadorEmail...
+Serviço GerenciadorEmail foi instalado com êxito.
+Criando a origem de EventLog GerenciadorEmail no log Application...
+Confirmando o assembly 'C:\Users\yrvinb\Source\Repos\GerenciadorEmail\GerenciadorEmail\bin\Debug\GerenciadorEmail.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\yrvinb\Source\Repos\GerenciadorEmail\GerenciadorEmail\bin\Debug\GerenciadorEmail.exe
+   logfile = C:\Users\yrvinb\Source\Repos\GerenciadorEmail\GerenciadorEmail\bin\Debug\GerenciadorEmail.InstallLog
