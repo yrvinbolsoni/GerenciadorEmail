@@ -58,7 +58,7 @@ namespace GerenciadorEmail
             }
         }
 
-     
+     // pegar as mensaguens
         public List<Email> GetMensagens()
         {
             // The client disconnects from the server when being disposed
