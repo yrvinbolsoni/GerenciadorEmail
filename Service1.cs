@@ -24,7 +24,7 @@ namespace GerenciadorEmail
         private int port = 110;
         private bool useSsl = false;
         private string username = "helpdesk";
-        private string password = "stmw8814";
+        private string password = "************";
 
         public Service1()
         {
